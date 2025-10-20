@@ -21,21 +21,8 @@ Write a C program to read a float value from the user and display the same value
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## RESULT:
-Thus the program to read 3 characters one by one and print the characters in a reverse order has been executed successfully.
-
+Thus the program to read a float value and display the same value as output has been executed successfully.
 
 # EX-02- Conditional-Statements
 ## AIM:
@@ -58,14 +45,8 @@ Write a C program to read  N value and check that value is equal to 0 or not usi
 
 
 
-
-
-
-
-
-
 # RESULT:
-Thus the program to read A values and check whether A is positive number or not has been executed successfully.
+Thus the program to read a value and check whether it is equal to 0 or not has been executed successfully.
  
  
  
@@ -102,7 +83,7 @@ Write a C program to find minimum between two given integer values(For ex: a=100
 
 
 ## RESULT:
-Thus the program to find minimum between two fraction numbers using conditional operator or ternary operator has been executed successfully.
+Thus the program to find the minimum between two given integer values using the conditional operator has been executed successfully.
 
 
 
@@ -140,7 +121,7 @@ Write a C program to read a number and check whether the number is divisible by 
 	
 
 ## RESULT:
-Thus the program to check whether the input value is equal to 1 using simple if statement has been executed successfully
+Thus the program to read a number and check whether it is divisible by 5 or not using if-else has been executed successfully.
 
 
 
@@ -171,5 +152,5 @@ per = avg.
 ## OUTPUT:
 ![alt text](<m1d5 (2).png>)
 ## RESULT:
-The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
+The program successfully takes five subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
 
